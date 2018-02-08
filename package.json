@@ -5,6 +5,7 @@
   "main": "index.ts",
   "scripts": {
     "start": "./node_modules/.bin/ts-node index.ts",
+    "grant": "./node_modules/.bin/ts-node grant.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
